@@ -1,0 +1,1 @@
+console.log("oniiii san tasukete kudasai");
